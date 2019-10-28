@@ -28,7 +28,6 @@
 Software, libraries and frameworks for development purposes.
 
 ### Python
-
 - [Nengo](https://github.com/nengo/nengo) - Library for creating and simulating large-scale brain models.
 - [Nitime](https://github.com/nipy/nitime) - Timeseries analysis for neuroscience data.
 - [Nilearn](https://github.com/nilearn/nilearn) - Module for performing statistical learning/machine learning on NeuroImaging data.
@@ -39,6 +38,7 @@ Software, libraries and frameworks for development purposes.
 - [NuPic](https://github.com/numenta/nupic) - Numenta Platform for Intelligent Computing is an implementation of Hierarchical Temporal Memory (HTM), a theory of intelligence based strictly on the neuroscience of the neocortex.
 - [Brian2](https://github.com/brian-team/brian2) - Free, open source simulator for spiking neural networks.
 - [expyriment](https://github.com/expyriment/expyriment) - Platform-independent lightweight Python library for designing and conducting timing-critical behavioural and neuroimaging experiments.
+- [BindsNET](https://github.com/Hananel-Hazan/bindsnet) - Package for simulating spiking neural networks for reinforcement & machine learning.
 
 ### Matlab
 
